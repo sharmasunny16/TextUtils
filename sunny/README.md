@@ -1,12 +1,35 @@
-# React + Vite
+# 📝 Text Utils (React + Bootstrap)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Text Utility Tool** built with **React.js** and **Bootstrap**.  
+This app allows you to easily transform text into **Uppercase**, **Lowercase**, and also provides an option to **Clear Text**.  
+It also includes **Dark Mode** and **Green Mode** for a better user experience.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🔠 Convert text to **UPPERCASE**
+- 🔡 Convert text to **lowercase**
+- 🧹 Clear the entered text
+- 🌗 **Dark Mode / Green Mode** theme toggle (Bootstrap based)
+- ⚡ Built with **React Hooks** for state management  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+- **React.js** – Frontend library  
+- **Bootstrap** – Styling & responsive design  
+- **JavaScript (ES6)** – Logic for text conversion  
+
+---
+
+## 📸 Screenshots
+_Add your project screenshot here_
+
+---
+
+## 🎯 How to Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sharmasunny16/TextUtils.git
